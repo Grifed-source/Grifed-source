@@ -1,4 +1,4 @@
-<h1 align="center">Hello, je suis Grifed !</h1>
+<h1 align="center">Salut, c'est Grifed !</h1>
 
 <h3 align="center">Je suis développeur Unreal Engine et discord.js depuis 2019.</h3>
 
