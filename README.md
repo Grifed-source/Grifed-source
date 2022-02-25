@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/Grifed_" target="blank"><img src="https://img.shields.io/twitter/follow/Grifed_?logo=twitter&style=for-the-badge" alt="Grifed" /></a> </p>
 
 - 🚧 Mon projet personnel est [iobot](https://top.gg/bot/699257396983496724)
-- 🚧 Mon projet de jeu vidéo avec un amis (le nom est temporaire) [avocados](https://discord.gg/5SMUu6UdvE)
+- 🚧 Mon projet de jeu vidéo avec un ami (le nom est temporaire) [avocados](https://discord.gg/5SMUu6UdvE)
 
 <h3>Langages et outils :</h3>
 
