@@ -17,5 +17,3 @@
 <p align="left">
     <a href="https://twitter.com/Grifed_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="icerodev" height="40" /></a> <a href="https://discord.com/users/406119345543053333" target="blank"><img align="center" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="Grifed" height="40" /></a> <a href="https://www.twitch.tv/Grifed_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" alt="Twitch Grifed" height="40" /></a><a href="https://discord.gg/f8bHxkfbp4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Grifed" height="40" />
 </p>
-
-| ![Grifed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grifed-source&show_icons=true&theme=radical)
