@@ -7,7 +7,7 @@
 </p>
 
 - 🚧 Mon projet personnel est [iobot](https://top.gg/bot/699257396983496724)
-- 🚧 Mon projet de jeu vidéo avec un ami (le nom est temporaire)(https://discord.gg/5SMUu6UdvE)
+- 🚧 Mon projet de jeu vidéo avec un ami (le nom est temporaire)
 
 ### Langages et outils :
 
