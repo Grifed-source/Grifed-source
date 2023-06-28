@@ -1,29 +1,38 @@
-<h2 align="center">Salut, c'est Grifed !</h2>
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/846705991563083822/1123563775040172092/githubbanniere.png" width="819" height="313"/>
+</div>
 
-<h3 align="center">Je suis développeur Unreal Engine et discord.js depuis 2019.</h3>
+---
 
-<p>
-	<a href="https://twitter.com/Grifed_" target="blank"><img src="https://img.shields.io/twitter/follow/Grifed_?logo=twitter&style=for-the-badge" alt="Grifed" /></a>
-</p>
+### :man_technologist: À propos de moi :
 
-- 🚧 Mon projet personnel est [iobot](https://top.gg/bot/699257396983496724)
-- 🚧 Mon projet de jeu vidéo avec un ami (le nom est temporaire)
+Salut, je suis un développeur passionné <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. J'aime résoudre des problèmes complexes et créer des applications innovantes.
 
-### Langages et outils :
+- :computer: Je suis actuellement spécialisé en JavaScript et PHP, et j'apprends le Rust.
+- :video_game: J'ai des compétences avec Unreal Engine et j'adore créer des jeux.
+- :books: Dans mon temps libre, j'aime apprendre de nouvelles technologies et approfondir mes connaissances actuelles.
+- :mailbox: [Envoyez-moi un email](mailto:grifed@pureidea.fr)
 
-<p>
-	<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-	<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-	<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-	<a href="https://visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a>
-</p>
+---
 
-### Suivez moi :
+### :hammer_and_wrench: Langues et outils :
 
-<p align="left">
-	<a href="https://twitter.com/Grifed_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="icerodev" height="40" /></a>
-	<a href="https://discord.com/users/406119345543053333" target="blank"><img align="center" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="Grifed" height="40" /></a>
-	<a href="https://www.twitch.tv/Grifed_" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png" alt="Twitch Grifed" height="40" /></a>
-	<a href="https://discord.gg/f8bHxkfbp4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="Grifed" height="40" />
-</p>
+#### Développement Web
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+
+#### Apprentissage en cours
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+
+#### Outils de développement
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PhpStorm" width="40" height="40"/> <img  src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.svg" alt="Jetbrains" width="40" height="40"/>
+
+#### Développement de jeux
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+
+---
+
+<div align="center">
+	
+![](https://komarev.com/ghpvc/?username=Grifed-source&color=06476d&style=flat-square&label=%20Vues)
+
+</div>
