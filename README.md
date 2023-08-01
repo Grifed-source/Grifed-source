@@ -41,6 +41,10 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 
 ---
 
+## 📊 GitHub Stats:
+![](github-metrics.svg)
+
+---
 <div align="center">
 	
 ![](https://komarev.com/ghpvc/?username=Grifed-source&color=06476d&style=flat-square&label=%20Vues)
