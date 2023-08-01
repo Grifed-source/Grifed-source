@@ -15,19 +15,29 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 
 ---
 
+## 🌐 Réseaux:
+![Discord status](https://dcbadge.vercel.app/api/shield/406119345543053333?compact=true&theme=blurple)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/grifed_)
+[![GMAIL](https://img.shields.io/badge/gmail-%23323330.svg?style=for-the-badge&logo=gmail)](mailto:grifed@pureidea.fr)
+
+---
 ### :hammer_and_wrench: Langues et outils :
 
-#### Développement Web
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![Rust](https://img.shields.io/badge/rust-%23323330?style=for-the-badge&logo=rust)
+![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js)
+![NextJS](https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/docker-%23323330?style=for-the-badge&logo=docker)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330?style=for-the-badge&logo=tailwindcss)
 
-#### Apprentissage en cours
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
 
 #### Outils de développement
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PhpStorm" width="40" height="40"/> <img  src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.svg" alt="Jetbrains" width="40" height="40"/>
+![PhpStorm](https://img.shields.io/badge/phpstorm-%23323330?style=for-the-badge&logo=phpstorm)
+![IntellijIDEA](https://img.shields.io/badge/intellijidea-%23323330?style=for-the-badge&logo=intellijidea)
 
 #### Développement de jeux
-<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+![UnrealEngine](https://img.shields.io/badge/unrealengine-%23323330?style=for-the-badge&logo=unrealengine)
 
 ---
 
