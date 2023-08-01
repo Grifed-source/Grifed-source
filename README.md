@@ -42,8 +42,11 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 ---
 
 ## 📊 GitHub Stats:
+<div align="center">
+	
 ![](github-metrics.svg)
-
+	
+</div>
 ---
 <div align="center">
 	
