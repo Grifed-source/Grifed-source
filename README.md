@@ -21,7 +21,7 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 [![GMAIL](https://img.shields.io/badge/gmail-%23323330.svg?style=for-the-badge&logo=gmail)](mailto:grifed@pureidea.fr)
 
 ---
-### :hammer_and_wrench: Langues et outils :
+### :hammer_and_wrench: Langages et outils :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/rust-%23323330?style=for-the-badge&logo=rust)
