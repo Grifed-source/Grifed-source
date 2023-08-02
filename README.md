@@ -8,7 +8,7 @@
 
 Salut, je suis un développeur passionné <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. J'aime résoudre des problèmes complexes et créer des applications innovantes.
 
-- :computer: Je suis actuellement spécialisé en JavaScript et PHP, et j'apprends le Rust.
+- :computer: Je suis actuellement spécialisé en JavaScript et avec Docker, j'apprends le Rust.
 - :video_game: J'ai des compétences avec Unreal Engine et j'adore créer des jeux.
 - :books: Dans mon temps libre, j'aime apprendre de nouvelles technologies et approfondir mes connaissances actuelles.
 - :mailbox: [Envoyez-moi un email](mailto:grifed@pureidea.fr)
