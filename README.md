@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/846705991563083822/1123563775040172092/githubbanniere.png" width="819" height="313"/>
-</div>
+![Banner](https://cdn.discordapp.com/attachments/846705991563083822/1123563775040172092/githubbanniere.png)
 
 ---
 
