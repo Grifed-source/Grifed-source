@@ -28,6 +28,7 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 ![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react)
 ![Docker](https://img.shields.io/badge/docker-%23323330?style=for-the-badge&logo=docker)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330?style=for-the-badge&logo=tailwindcss)
+![ScyllaDB](https://s.oriondev.fr/s/189f93f563d19)
 
 
 #### Outils de développement
