@@ -20,23 +20,29 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 
 ---
 ### :hammer_and_wrench: Langages et outils :
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Rust](https://img.shields.io/badge/rust-%23323330?style=for-the-badge&logo=rust)
-![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js)
-![NextJS](https://img.shields.io/badge/next.js-%23323330?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/docker-%23323330?style=for-the-badge&logo=docker)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330?style=for-the-badge&logo=tailwindcss)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+---
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ScyllaDB](https://s.oriondev.fr/s/189f93f563d19)
 
 
 #### Outils de développement
-![PhpStorm](https://img.shields.io/badge/phpstorm-%23323330?style=for-the-badge&logo=phpstorm)
-![IntellijIDEA](https://img.shields.io/badge/intellijidea-%23323330?style=for-the-badge&logo=intellijidea)
+![PhpStorm](https://img.shields.io/badge/phpstorm-black?style=for-the-badge&logo=phpstorm)
+![IntellijIDEA](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea)
 
 #### Développement de jeux
-![UnrealEngine](https://img.shields.io/badge/unrealengine-%23323330?style=for-the-badge&logo=unrealengine)
+![UnrealEngine](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
