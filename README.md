@@ -16,7 +16,7 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 ## 🌐 Réseaux:
 ![Discord status](https://dcbadge.vercel.app/api/shield/406119345543053333?compact=true&theme=blurple)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/grifed_)
-[![GMAIL](https://img.shields.io/badge/gmail-%23323330.svg?style=for-the-badge&logo=gmail)](mailto:grifed@pureidea.fr)
+[![GMAIL](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grifed@pureidea.fr)
 
 ---
 ### :hammer_and_wrench: Langages et outils :
@@ -58,5 +58,6 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 <div align="center">
 	
 ![Vues](https://komarev.com/ghpvc/?username=Grifed-source&color=06476d&style=flat-square&label=%20Vues)
+[![GitHub followers](https://img.shields.io/github/followers/Grifed-source.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Grifed-source?tab=followers)
 
 </div>
