@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: À propos de moi :
+### 👨‍💻 À propos de moi :
 
 Salut, je suis un développeur passionné <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. J'aime résoudre des problèmes complexes et créer des applications innovantes.
 
@@ -19,7 +19,7 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 [![GMAIL](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grifed@pureidea.fr)
 
 ---
-### :hammer_and_wrench: Langages et outils :
+### ⚒️ Langages et outils :
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
