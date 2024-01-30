@@ -16,7 +16,7 @@ Salut, je suis un développeur passionné <img src="https://media.giphy.com/medi
 ## 🌐 Réseaux:
 ![Discord status](https://dcbadge.vercel.app/api/shield/406119345543053333?compact=true&theme=blurple)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/grifed_)
-[![GMAIL](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grifed@pureidea.fr)
+[![GMAIL](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grifed@novablue.io)
 
 ---
 ### ⚒️ Langages et outils :
